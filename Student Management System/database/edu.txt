@@ -1,0 +1,1 @@
+create table edu(id int, course varchar(255), branch varchar(255), hsyear int, hsschool varchar(255), hsmax int, hsob int, interyear int, interschool varchar(255), intermax int, interob int, gradyear int, gradschool varchar(255), gradmax int, gradob int, pgyear int, pgschool varchar(255), pgmax int, pgob int, primary key(id));
